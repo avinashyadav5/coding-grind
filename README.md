@@ -32,11 +32,13 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
