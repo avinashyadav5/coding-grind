@@ -7,6 +7,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
+| [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -28,4 +29,12 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
