@@ -99,6 +99,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/avinashyadav5/coding-grind/tree/master/3817-maximum-containers-on-a-ship) |
+| [3859-maximum-product-of-two-digits](https://github.com/avinashyadav5/coding-grind/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
+| [3859-maximum-product-of-two-digits](https://github.com/avinashyadav5/coding-grind/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
