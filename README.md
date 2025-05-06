@@ -14,6 +14,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0035-search-insert-position](https://github.com/avinashyadav5/coding-grind/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/avinashyadav5/coding-grind/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/avinashyadav5/coding-grind/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
@@ -175,6 +176,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/avinashyadav5/coding-grind/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
