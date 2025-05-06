@@ -43,6 +43,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/avinashyadav5/coding-grind/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
@@ -169,6 +170,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0442-find-all-duplicates-in-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
@@ -218,6 +220,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/avinashyadav5/coding-grind/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/avinashyadav5/coding-grind/tree/master/0383-ransom-note) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Bit Manipulation
 |  |
