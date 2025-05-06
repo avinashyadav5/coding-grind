@@ -13,6 +13,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0033-search-in-rotated-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/avinashyadav5/coding-grind/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0009-palindrome-number](https://github.com/avinashyadav5/coding-grind/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
