@@ -24,6 +24,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -98,6 +99,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0151-reverse-words-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashyadav5/coding-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0350-intersection-of-two-arrays-ii) |
