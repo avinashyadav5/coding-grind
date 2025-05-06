@@ -36,6 +36,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/avinashyadav5/coding-grind/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
@@ -130,6 +131,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
