@@ -42,6 +42,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3723-sum-of-good-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/avinashyadav5/coding-grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Simulation
 |  |
