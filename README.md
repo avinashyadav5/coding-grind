@@ -12,6 +12,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0027-remove-element](https://github.com/avinashyadav5/coding-grind/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/avinashyadav5/coding-grind/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/avinashyadav5/coding-grind/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
@@ -127,6 +128,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/avinashyadav5/coding-grind/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
