@@ -8,6 +8,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/avinashyadav5/coding-grind/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/avinashyadav5/coding-grind/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
@@ -35,6 +36,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/avinashyadav5/coding-grind/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
