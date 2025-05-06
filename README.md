@@ -27,6 +27,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -174,5 +175,6 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
