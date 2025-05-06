@@ -54,6 +54,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/avinashyadav5/coding-grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
+| [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/avinashyadav5/coding-grind/tree/master/0191-number-of-1-bits) |
+| [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Counting
 |  |
 | ------- |
