@@ -60,6 +60,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0292-nim-game](https://github.com/avinashyadav5/coding-grind/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashyadav5/coding-grind/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/avinashyadav5/coding-grind/tree/master/0367-valid-perfect-square) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
@@ -126,6 +127,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashyadav5/coding-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/avinashyadav5/coding-grind/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
