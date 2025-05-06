@@ -52,6 +52,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/avinashyadav5/coding-grind/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -75,6 +76,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashyadav5/coding-grind/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/avinashyadav5/coding-grind/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
@@ -124,6 +126,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0344-reverse-string](https://github.com/avinashyadav5/coding-grind/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/avinashyadav5/coding-grind/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
