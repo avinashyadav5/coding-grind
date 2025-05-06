@@ -82,6 +82,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/avinashyadav5/coding-grind/tree/master/3817-maximum-containers-on-a-ship) |
 ## Matrix
 |  |
 | ------- |
