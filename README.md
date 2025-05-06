@@ -155,6 +155,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0409-longest-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/avinashyadav5/coding-grind/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/avinashyadav5/coding-grind/tree/master/0812-rotate-string) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
@@ -314,6 +315,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/avinashyadav5/coding-grind/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
