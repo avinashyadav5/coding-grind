@@ -21,6 +21,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
@@ -81,6 +82,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
