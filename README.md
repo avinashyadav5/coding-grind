@@ -17,6 +17,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/avinashyadav5/coding-grind/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
