@@ -36,6 +36,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/avinashyadav5/coding-grind/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
@@ -100,6 +101,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
@@ -120,5 +122,6 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
