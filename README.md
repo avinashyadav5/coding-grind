@@ -7,6 +7,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
@@ -30,6 +31,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 ## String
