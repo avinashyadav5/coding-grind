@@ -24,6 +24,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
@@ -89,6 +90,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashyadav5/coding-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
@@ -109,6 +111,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -119,6 +122,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 ## Binary Search
@@ -132,6 +136,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashyadav5/coding-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/avinashyadav5/coding-grind/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
