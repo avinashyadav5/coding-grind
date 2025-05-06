@@ -18,6 +18,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
@@ -37,6 +38,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/avinashyadav5/coding-grind/tree/master/0292-nim-game) |
@@ -111,6 +113,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
 ## Brainteaser
 |  |
@@ -131,4 +134,8 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashyadav5/coding-grind/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
