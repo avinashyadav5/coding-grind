@@ -20,6 +20,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0009-palindrome-number](https://github.com/avinashyadav5/coding-grind/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -36,6 +38,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
