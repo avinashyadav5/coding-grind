@@ -6,6 +6,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
@@ -32,6 +33,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
