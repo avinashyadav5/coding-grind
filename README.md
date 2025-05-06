@@ -24,6 +24,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
+| [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
@@ -48,6 +49,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashyadav5/coding-grind/tree/master/0342-power-of-four) |
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
+| [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
@@ -120,6 +122,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/avinashyadav5/coding-grind/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
+| [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 ## Brainteaser
 |  |
 | ------- |
