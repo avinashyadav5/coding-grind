@@ -19,6 +19,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0009-palindrome-number](https://github.com/avinashyadav5/coding-grind/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -40,4 +41,8 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
