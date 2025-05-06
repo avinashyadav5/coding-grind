@@ -42,6 +42,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
+| [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/3723-sum-of-good-numbers) |
@@ -149,6 +150,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
