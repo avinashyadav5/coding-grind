@@ -21,6 +21,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0009-palindrome-number](https://github.com/avinashyadav5/coding-grind/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 ## Matrix
 |  |
