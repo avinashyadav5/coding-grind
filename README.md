@@ -21,6 +21,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/avinashyadav5/coding-grind/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/avinashyadav5/coding-grind/tree/master/0162-find-peak-element) |
@@ -294,6 +295,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/avinashyadav5/coding-grind/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
 ## Combinatorics
