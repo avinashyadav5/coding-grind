@@ -17,6 +17,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
@@ -32,6 +33,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -60,12 +62,14 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 ## Binary Search
@@ -76,6 +80,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0035-search-insert-position](https://github.com/avinashyadav5/coding-grind/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,4 +94,5 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
