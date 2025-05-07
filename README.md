@@ -87,6 +87,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/avinashyadav5/coding-grind/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/avinashyadav5/coding-grind/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/avinashyadav5/coding-grind/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
@@ -174,6 +175,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/avinashyadav5/coding-grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
@@ -271,6 +273,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/avinashyadav5/coding-grind/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/avinashyadav5/coding-grind/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
@@ -323,6 +326,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/avinashyadav5/coding-grind/tree/master/0347-top-k-frequent-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
