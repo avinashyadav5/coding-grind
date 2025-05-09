@@ -15,6 +15,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0035-search-insert-position](https://github.com/avinashyadav5/coding-grind/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/avinashyadav5/coding-grind/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/avinashyadav5/coding-grind/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
@@ -67,6 +68,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/avinashyadav5/coding-grind/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
@@ -116,6 +118,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
