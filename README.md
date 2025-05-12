@@ -85,6 +85,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0050-powx-n](https://github.com/avinashyadav5/coding-grind/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/avinashyadav5/coding-grind/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/avinashyadav5/coding-grind/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/avinashyadav5/coding-grind/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
@@ -286,6 +287,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avinashyadav5/coding-grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/avinashyadav5/coding-grind/tree/master/0392-is-subsequence) |
@@ -321,6 +323,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avinashyadav5/coding-grind/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
