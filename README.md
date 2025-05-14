@@ -268,6 +268,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/avinashyadav5/coding-grind/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/avinashyadav5/coding-grind/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/avinashyadav5/coding-grind/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -296,6 +297,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0070-climbing-stairs](https://github.com/avinashyadav5/coding-grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/avinashyadav5/coding-grind/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/avinashyadav5/coding-grind/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/avinashyadav5/coding-grind/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
