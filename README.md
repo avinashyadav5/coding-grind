@@ -46,6 +46,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/avinashyadav5/coding-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
+| [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
@@ -104,6 +105,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/avinashyadav5/coding-grind/tree/master/0441-arranging-coins) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
@@ -383,4 +385,8 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/avinashyadav5/coding-grind/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
