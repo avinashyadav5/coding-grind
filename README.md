@@ -53,6 +53,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/avinashyadav5/coding-grind/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/avinashyadav5/coding-grind/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -131,6 +132,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
+| [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Two Pointers
 |  |
@@ -324,6 +326,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avinashyadav5/coding-grind/tree/master/0238-product-of-array-except-self) |
+| [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Stack
