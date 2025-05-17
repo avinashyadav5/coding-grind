@@ -169,6 +169,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0151-reverse-words-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/avinashyadav5/coding-grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/avinashyadav5/coding-grind/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/avinashyadav5/coding-grind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/avinashyadav5/coding-grind/tree/master/0383-ransom-note) |
@@ -200,6 +201,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0242-valid-anagram](https://github.com/avinashyadav5/coding-grind/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/avinashyadav5/coding-grind/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/avinashyadav5/coding-grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0350-intersection-of-two-arrays-ii) |
