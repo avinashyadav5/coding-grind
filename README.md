@@ -57,6 +57,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1293-three-consecutive-odds](https://github.com/avinashyadav5/coding-grind/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1677-matrix-diagonal-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/avinashyadav5/coding-grind/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
@@ -136,6 +137,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1677-matrix-diagonal-sum) |
 | [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Two Pointers
 |  |
