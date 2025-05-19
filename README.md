@@ -66,6 +66,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -119,6 +120,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2752-sum-multiples](https://github.com/avinashyadav5/coding-grind/tree/master/2752-sum-multiples) |
+| [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -241,6 +243,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
 | [3859-maximum-product-of-two-digits](https://github.com/avinashyadav5/coding-grind/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
