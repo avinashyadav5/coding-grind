@@ -20,6 +20,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0056-merge-intervals](https://github.com/avinashyadav5/coding-grind/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0048-rotate-image](https://github.com/avinashyadav5/coding-grind/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
@@ -209,6 +211,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/avinashyadav5/coding-grind/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/avinashyadav5/coding-grind/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/avinashyadav5/coding-grind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/avinashyadav5/coding-grind/tree/master/0202-happy-number) |
