@@ -56,6 +56,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/avinashyadav5/coding-grind/tree/master/1293-three-consecutive-odds) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1677-matrix-diagonal-sum) |
@@ -119,6 +120,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avinashyadav5/coding-grind/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/avinashyadav5/coding-grind/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -423,4 +425,5 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
