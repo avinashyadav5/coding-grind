@@ -51,6 +51,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
+| [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -118,6 +119,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -250,6 +252,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/avinashyadav5/coding-grind/tree/master/0389-find-the-difference) |
+| [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -377,6 +380,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0134-gas-station](https://github.com/avinashyadav5/coding-grind/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
 |  |
