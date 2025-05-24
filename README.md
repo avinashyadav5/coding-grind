@@ -208,6 +208,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0812-rotate-string](https://github.com/avinashyadav5/coding-grind/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/avinashyadav5/coding-grind/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
+| [1205-defanging-an-ip-address](https://github.com/avinashyadav5/coding-grind/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
