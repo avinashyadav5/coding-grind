@@ -58,6 +58,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/avinashyadav5/coding-grind/tree/master/1293-three-consecutive-odds) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1580-shuffle-the-array](https://github.com/avinashyadav5/coding-grind/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
