@@ -78,6 +78,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/3723-sum-of-good-numbers) |
@@ -141,6 +142,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2812-find-the-maximum-achievable-number](https://github.com/avinashyadav5/coding-grind/tree/master/2812-find-the-maximum-achievable-number) |
 | [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avinashyadav5/coding-grind/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
