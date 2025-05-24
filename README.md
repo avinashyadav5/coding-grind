@@ -81,6 +81,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3723-sum-of-good-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/avinashyadav5/coding-grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/avinashyadav5/coding-grind/tree/master/3778-transform-array-by-parity) |
 | [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Simulation
 |  |
@@ -274,6 +275,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
+| [3778-transform-array-by-parity](https://github.com/avinashyadav5/coding-grind/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/avinashyadav5/coding-grind/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -311,6 +313,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3778-transform-array-by-parity](https://github.com/avinashyadav5/coding-grind/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
