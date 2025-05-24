@@ -65,6 +65,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1950-sign-of-the-product-of-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/avinashyadav5/coding-grind/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -89,6 +90,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0657-robot-return-to-origin](https://github.com/avinashyadav5/coding-grind/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avinashyadav5/coding-grind/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
@@ -179,6 +181,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0953-reverse-only-letters](https://github.com/avinashyadav5/coding-grind/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
