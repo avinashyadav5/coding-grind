@@ -140,6 +140,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2752-sum-multiples](https://github.com/avinashyadav5/coding-grind/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/avinashyadav5/coding-grind/tree/master/2812-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
