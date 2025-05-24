@@ -66,6 +66,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1950-sign-of-the-product-of-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/avinashyadav5/coding-grind/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -91,6 +92,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0657-robot-return-to-origin](https://github.com/avinashyadav5/coding-grind/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avinashyadav5/coding-grind/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -213,6 +215,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1205-defanging-an-ip-address](https://github.com/avinashyadav5/coding-grind/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/avinashyadav5/coding-grind/tree/master/3194-find-words-containing-character) |
