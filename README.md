@@ -95,6 +95,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/avinashyadav5/coding-grind/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/avinashyadav5/coding-grind/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/avinashyadav5/coding-grind/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1310-watering-plants](https://github.com/avinashyadav5/coding-grind/tree/master/1310-watering-plants) |
@@ -129,6 +130,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0396-rotate-function](https://github.com/avinashyadav5/coding-grind/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/avinashyadav5/coding-grind/tree/master/0441-arranging-coins) |
+| [0537-complex-number-multiplication](https://github.com/avinashyadav5/coding-grind/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
@@ -217,6 +219,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0409-longest-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/avinashyadav5/coding-grind/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/avinashyadav5/coding-grind/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/avinashyadav5/coding-grind/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/avinashyadav5/coding-grind/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/avinashyadav5/coding-grind/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/avinashyadav5/coding-grind/tree/master/0782-jewels-and-stones) |
