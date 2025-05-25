@@ -8,6 +8,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0001-two-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/avinashyadav5/coding-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/avinashyadav5/coding-grind/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0033-search-in-rotated-sorted-array) |
@@ -171,6 +172,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/avinashyadav5/coding-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/avinashyadav5/coding-grind/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -402,6 +404,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/avinashyadav5/coding-grind/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/avinashyadav5/coding-grind/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
