@@ -34,6 +34,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avinashyadav5/coding-grind/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/avinashyadav5/coding-grind/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/avinashyadav5/coding-grind/tree/master/0260-single-number-iii) |
@@ -309,6 +310,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/avinashyadav5/coding-grind/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashyadav5/coding-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
@@ -399,6 +401,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avinashyadav5/coding-grind/tree/master/0238-product-of-array-except-self) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
@@ -474,4 +477,8 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
