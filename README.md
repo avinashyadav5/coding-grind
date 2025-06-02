@@ -27,6 +27,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0088-merge-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/avinashyadav5/coding-grind/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/avinashyadav5/coding-grind/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/avinashyadav5/coding-grind/tree/master/0162-find-peak-element) |
@@ -430,6 +431,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0011-container-with-most-water](https://github.com/avinashyadav5/coding-grind/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/avinashyadav5/coding-grind/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/avinashyadav5/coding-grind/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
