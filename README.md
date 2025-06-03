@@ -38,6 +38,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/avinashyadav5/coding-grind/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/avinashyadav5/coding-grind/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/avinashyadav5/coding-grind/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/avinashyadav5/coding-grind/tree/master/0274-h-index) |
@@ -175,6 +176,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0059-spiral-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
@@ -316,6 +318,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0162-find-peak-element](https://github.com/avinashyadav5/coding-grind/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashyadav5/coding-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avinashyadav5/coding-grind/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
@@ -328,6 +331,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/avinashyadav5/coding-grind/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/avinashyadav5/coding-grind/tree/master/0347-top-k-frequent-elements) |
 | [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Counting
