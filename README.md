@@ -58,6 +58,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
@@ -179,6 +180,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0240-search-a-2d-matrix-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/avinashyadav5/coding-grind/tree/master/1791-richest-customer-wealth) |
@@ -277,6 +279,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/avinashyadav5/coding-grind/tree/master/0782-jewels-and-stones) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -417,6 +420,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avinashyadav5/coding-grind/tree/master/0238-product-of-array-except-self) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
