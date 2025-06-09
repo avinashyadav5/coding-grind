@@ -143,6 +143,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0537-complex-number-multiplication](https://github.com/avinashyadav5/coding-grind/tree/master/0537-complex-number-multiplication) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
+| [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/avinashyadav5/coding-grind/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
@@ -278,6 +279,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0442-find-all-duplicates-in-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/avinashyadav5/coding-grind/tree/master/0782-jewels-and-stones) |
+| [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -300,6 +302,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0349-intersection-of-two-arrays](https://github.com/avinashyadav5/coding-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/avinashyadav5/coding-grind/tree/master/0389-find-the-difference) |
+| [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -345,6 +348,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0169-majority-element](https://github.com/avinashyadav5/coding-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/avinashyadav5/coding-grind/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/avinashyadav5/coding-grind/tree/master/0383-ransom-note) |
+| [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -414,6 +418,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/avinashyadav5/coding-grind/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avinashyadav5/coding-grind/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
