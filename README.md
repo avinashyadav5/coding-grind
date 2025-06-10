@@ -253,6 +253,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3379-score-of-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/3379-score-of-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avinashyadav5/coding-grind/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinashyadav5/coding-grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -288,6 +289,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/avinashyadav5/coding-grind/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinashyadav5/coding-grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinashyadav5/coding-grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/avinashyadav5/coding-grind/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
