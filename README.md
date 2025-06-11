@@ -96,6 +96,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/avinashyadav5/coding-grind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/avinashyadav5/coding-grind/tree/master/3778-transform-array-by-parity) |
 | [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avinashyadav5/coding-grind/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/avinashyadav5/coding-grind/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/avinashyadav5/coding-grind/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avinashyadav5/coding-grind/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/avinashyadav5/coding-grind/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
 |  |
