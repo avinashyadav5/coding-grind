@@ -82,6 +82,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/avinashyadav5/coding-grind/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -387,6 +388,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/avinashyadav5/coding-grind/tree/master/1839-decode-xored-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/avinashyadav5/coding-grind/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Number Theory
 |  |
 | ------- |
