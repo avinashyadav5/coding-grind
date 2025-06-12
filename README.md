@@ -159,6 +159,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2383-add-two-integers](https://github.com/avinashyadav5/coding-grind/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2556-convert-the-temperature](https://github.com/avinashyadav5/coding-grind/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/avinashyadav5/coding-grind/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/avinashyadav5/coding-grind/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3172-divisible-and-non-divisible-sums-difference) |
