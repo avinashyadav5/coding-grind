@@ -159,6 +159,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/avinashyadav5/coding-grind/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/avinashyadav5/coding-grind/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/avinashyadav5/coding-grind/tree/master/2556-convert-the-temperature) |
@@ -223,6 +224,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/avinashyadav5/coding-grind/tree/master/2481-strictly-palindromic-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avinashyadav5/coding-grind/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -402,6 +404,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0292-nim-game](https://github.com/avinashyadav5/coding-grind/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/avinashyadav5/coding-grind/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
