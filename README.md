@@ -163,6 +163,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/avinashyadav5/coding-grind/tree/master/2556-convert-the-temperature) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/avinashyadav5/coding-grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/avinashyadav5/coding-grind/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/avinashyadav5/coding-grind/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -474,6 +475,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/avinashyadav5/coding-grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
 |  |
