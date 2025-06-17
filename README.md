@@ -66,6 +66,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1293-three-consecutive-odds](https://github.com/avinashyadav5/coding-grind/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/avinashyadav5/coding-grind/tree/master/1310-watering-plants) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1580-shuffle-the-array](https://github.com/avinashyadav5/coding-grind/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -156,6 +157,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/avinashyadav5/coding-grind/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avinashyadav5/coding-grind/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/avinashyadav5/coding-grind/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
@@ -301,6 +303,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -451,6 +454,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0238-product-of-array-except-self](https://github.com/avinashyadav5/coding-grind/tree/master/0238-product-of-array-except-self) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avinashyadav5/coding-grind/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -534,4 +538,5 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
