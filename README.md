@@ -143,6 +143,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0264-ugly-number-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/avinashyadav5/coding-grind/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/avinashyadav5/coding-grind/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/avinashyadav5/coding-grind/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashyadav5/coding-grind/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/avinashyadav5/coding-grind/tree/master/0367-valid-perfect-square) |
@@ -415,6 +416,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/avinashyadav5/coding-grind/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/avinashyadav5/coding-grind/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/avinashyadav5/coding-grind/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/avinashyadav5/coding-grind/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
