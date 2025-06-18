@@ -59,6 +59,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avinashyadav5/coding-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -397,6 +398,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0476-number-complement](https://github.com/avinashyadav5/coding-grind/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avinashyadav5/coding-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/avinashyadav5/coding-grind/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/avinashyadav5/coding-grind/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -454,6 +456,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avinashyadav5/coding-grind/tree/master/0238-product-of-array-except-self) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avinashyadav5/coding-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
@@ -541,10 +544,12 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avinashyadav5/coding-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avinashyadav5/coding-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinashyadav5/coding-grind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avinashyadav5/coding-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinashyadav5/coding-grind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
