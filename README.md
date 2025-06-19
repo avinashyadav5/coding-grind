@@ -83,6 +83,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/avinashyadav5/coding-grind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/avinashyadav5/coding-grind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -166,6 +167,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/avinashyadav5/coding-grind/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/avinashyadav5/coding-grind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2383-add-two-integers](https://github.com/avinashyadav5/coding-grind/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/avinashyadav5/coding-grind/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/avinashyadav5/coding-grind/tree/master/2491-smallest-even-multiple) |
@@ -204,6 +206,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1242-matrix-block-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1242-matrix-block-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/avinashyadav5/coding-grind/tree/master/1791-richest-customer-wealth) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/avinashyadav5/coding-grind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3822-fill-a-special-grid](https://github.com/avinashyadav5/coding-grind/tree/master/3822-fill-a-special-grid) |
 ## Two Pointers
 |  |
@@ -271,6 +274,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avinashyadav5/coding-grind/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/avinashyadav5/coding-grind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/avinashyadav5/coding-grind/tree/master/3194-find-words-containing-character) |
