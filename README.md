@@ -85,6 +85,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2144-maximum-difference-between-increasing-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/avinashyadav5/coding-grind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/avinashyadav5/coding-grind/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -336,6 +337,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/avinashyadav5/coding-grind/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/avinashyadav5/coding-grind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/avinashyadav5/coding-grind/tree/master/3430-count-days-without-meetings) |
@@ -495,6 +497,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/avinashyadav5/coding-grind/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/avinashyadav5/coding-grind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/avinashyadav5/coding-grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Combinatorics
