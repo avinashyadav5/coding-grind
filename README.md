@@ -262,6 +262,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0812-rotate-string](https://github.com/avinashyadav5/coding-grind/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/avinashyadav5/coding-grind/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
+| [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/avinashyadav5/coding-grind/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/avinashyadav5/coding-grind/tree/master/1260-day-of-the-year) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -305,6 +306,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
@@ -375,6 +377,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0347-top-k-frequent-elements](https://github.com/avinashyadav5/coding-grind/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/avinashyadav5/coding-grind/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
+| [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -554,4 +557,8 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avinashyadav5/coding-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/avinashyadav5/coding-grind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
