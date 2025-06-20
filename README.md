@@ -275,6 +275,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avinashyadav5/coding-grind/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/avinashyadav5/coding-grind/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2406-decode-the-message](https://github.com/avinashyadav5/coding-grind/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/avinashyadav5/coding-grind/tree/master/3194-find-words-containing-character) |
@@ -316,6 +317,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1370-count-number-of-nice-subarrays](https://github.com/avinashyadav5/coding-grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2406-decode-the-message](https://github.com/avinashyadav5/coding-grind/tree/master/2406-decode-the-message) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/avinashyadav5/coding-grind/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
