@@ -267,6 +267,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0657-robot-return-to-origin](https://github.com/avinashyadav5/coding-grind/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/avinashyadav5/coding-grind/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/avinashyadav5/coding-grind/tree/master/0782-jewels-and-stones) |
+| [0800-letter-case-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/avinashyadav5/coding-grind/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/avinashyadav5/coding-grind/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
@@ -413,6 +414,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0389-find-the-difference](https://github.com/avinashyadav5/coding-grind/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/avinashyadav5/coding-grind/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/avinashyadav5/coding-grind/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0800-letter-case-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avinashyadav5/coding-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -574,5 +576,6 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Backtracking
 |  |
 | ------- |
+| [0800-letter-case-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
