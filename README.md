@@ -243,6 +243,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avinashyadav5/coding-grind/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/avinashyadav5/coding-grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/avinashyadav5/coding-grind/tree/master/0067-add-binary) |
@@ -480,6 +481,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avinashyadav5/coding-grind/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
