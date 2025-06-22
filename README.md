@@ -124,6 +124,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1310-watering-plants](https://github.com/avinashyadav5/coding-grind/tree/master/1310-watering-plants) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/avinashyadav5/coding-grind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/avinashyadav5/coding-grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avinashyadav5/coding-grind/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -283,6 +284,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avinashyadav5/coding-grind/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/avinashyadav5/coding-grind/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/avinashyadav5/coding-grind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2406-decode-the-message](https://github.com/avinashyadav5/coding-grind/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/avinashyadav5/coding-grind/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
