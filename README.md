@@ -55,6 +55,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/avinashyadav5/coding-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
@@ -382,6 +383,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0350-intersection-of-two-arrays-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/avinashyadav5/coding-grind/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/avinashyadav5/coding-grind/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
