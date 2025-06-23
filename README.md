@@ -188,6 +188,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/avinashyadav5/coding-grind/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avinashyadav5/coding-grind/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/avinashyadav5/coding-grind/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3567-convert-date-to-binary](https://github.com/avinashyadav5/coding-grind/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/avinashyadav5/coding-grind/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/avinashyadav5/coding-grind/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -291,6 +292,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/avinashyadav5/coding-grind/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/avinashyadav5/coding-grind/tree/master/3567-convert-date-to-binary) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avinashyadav5/coding-grind/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avinashyadav5/coding-grind/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
