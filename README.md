@@ -59,6 +59,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
+| [0932-monotonic-array](https://github.com/avinashyadav5/coding-grind/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
