@@ -88,6 +88,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avinashyadav5/coding-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/avinashyadav5/coding-grind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -359,6 +360,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/avinashyadav5/coding-grind/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/avinashyadav5/coding-grind/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avinashyadav5/coding-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/avinashyadav5/coding-grind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/avinashyadav5/coding-grind/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -524,6 +526,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1018-largest-perimeter-triangle](https://github.com/avinashyadav5/coding-grind/tree/master/1018-largest-perimeter-triangle) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashyadav5/coding-grind/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/avinashyadav5/coding-grind/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avinashyadav5/coding-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/avinashyadav5/coding-grind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/avinashyadav5/coding-grind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avinashyadav5/coding-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -566,6 +569,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/avinashyadav5/coding-grind/tree/master/0274-h-index) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avinashyadav5/coding-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Linked List
 |  |
 | ------- |
