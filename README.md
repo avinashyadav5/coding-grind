@@ -127,6 +127,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0657-robot-return-to-origin](https://github.com/avinashyadav5/coding-grind/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [1310-watering-plants](https://github.com/avinashyadav5/coding-grind/tree/master/1310-watering-plants) |
+| [1708-design-parking-system](https://github.com/avinashyadav5/coding-grind/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avinashyadav5/coding-grind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/avinashyadav5/coding-grind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -408,6 +409,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/avinashyadav5/coding-grind/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avinashyadav5/coding-grind/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/avinashyadav5/coding-grind/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avinashyadav5/coding-grind/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -596,4 +598,8 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0800-letter-case-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/avinashyadav5/coding-grind/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
