@@ -259,6 +259,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0014-longest-common-prefix](https://github.com/avinashyadav5/coding-grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avinashyadav5/coding-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/avinashyadav5/coding-grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/avinashyadav5/coding-grind/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/avinashyadav5/coding-grind/tree/master/0125-valid-palindrome) |
@@ -463,6 +464,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avinashyadav5/coding-grind/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/avinashyadav5/coding-grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -505,6 +507,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avinashyadav5/coding-grind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/avinashyadav5/coding-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
