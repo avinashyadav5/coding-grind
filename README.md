@@ -506,6 +506,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashyadav5/coding-grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avinashyadav5/coding-grind/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/avinashyadav5/coding-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -562,6 +563,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avinashyadav5/coding-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/avinashyadav5/coding-grind/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -602,4 +604,12 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/avinashyadav5/coding-grind/tree/master/1708-design-parking-system) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avinashyadav5/coding-grind/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avinashyadav5/coding-grind/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
