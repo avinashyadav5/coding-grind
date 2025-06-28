@@ -479,6 +479,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/avinashyadav5/coding-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/avinashyadav5/coding-grind/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashyadav5/coding-grind/tree/master/0326-power-of-three) |
@@ -580,6 +581,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/avinashyadav5/coding-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/avinashyadav5/coding-grind/tree/master/0141-linked-list-cycle) |
 ## Geometry
 |  |
