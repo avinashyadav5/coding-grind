@@ -75,6 +75,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1580-shuffle-the-array](https://github.com/avinashyadav5/coding-grind/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/avinashyadav5/coding-grind/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/avinashyadav5/coding-grind/tree/master/1603-running-sum-of-1d-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avinashyadav5/coding-grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/avinashyadav5/coding-grind/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/avinashyadav5/coding-grind/tree/master/1677-matrix-diagonal-sum) |
@@ -247,6 +248,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/avinashyadav5/coding-grind/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avinashyadav5/coding-grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/avinashyadav5/coding-grind/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/avinashyadav5/coding-grind/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avinashyadav5/coding-grind/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -360,6 +362,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [1019-squares-of-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/avinashyadav5/coding-grind/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/avinashyadav5/coding-grind/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avinashyadav5/coding-grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/avinashyadav5/coding-grind/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/avinashyadav5/coding-grind/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avinashyadav5/coding-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -391,6 +394,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0367-valid-perfect-square](https://github.com/avinashyadav5/coding-grind/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/avinashyadav5/coding-grind/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avinashyadav5/coding-grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
