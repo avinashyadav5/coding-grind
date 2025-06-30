@@ -25,6 +25,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0066-plus-one](https://github.com/avinashyadav5/coding-grind/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/avinashyadav5/coding-grind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashyadav5/coding-grind/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/avinashyadav5/coding-grind/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/avinashyadav5/coding-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashyadav5/coding-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -424,6 +425,7 @@ Efficient algorithm implementations for technical skill enhancement.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/avinashyadav5/coding-grind/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/avinashyadav5/coding-grind/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/avinashyadav5/coding-grind/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/avinashyadav5/coding-grind/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/avinashyadav5/coding-grind/tree/master/0231-power-of-two) |
@@ -607,6 +609,7 @@ Efficient algorithm implementations for technical skill enhancement.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/avinashyadav5/coding-grind/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
 ## Design
