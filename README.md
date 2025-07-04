@@ -57,6 +57,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0485-max-consecutive-ones](https://github.com/avinashyadav5/coding-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avinashyadav5/coding-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0822-unique-morse-code-words](https://github.com/avinashyadav5/coding-grind/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/avinashyadav5/coding-grind/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/avinashyadav5/coding-grind/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/avinashyadav5/coding-grind/tree/master/0890-lemonade-change) |
@@ -284,6 +285,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0782-jewels-and-stones](https://github.com/avinashyadav5/coding-grind/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/avinashyadav5/coding-grind/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/avinashyadav5/coding-grind/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/avinashyadav5/coding-grind/tree/master/0822-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/avinashyadav5/coding-grind/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/avinashyadav5/coding-grind/tree/master/1160-letter-tile-possibilities) |
@@ -331,6 +333,7 @@ Efficient algorithm implementations for technical skill enhancement.
 | [0442-find-all-duplicates-in-an-array](https://github.com/avinashyadav5/coding-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avinashyadav5/coding-grind/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/avinashyadav5/coding-grind/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/avinashyadav5/coding-grind/tree/master/0822-unique-morse-code-words) |
 | [0900-reordered-power-of-2](https://github.com/avinashyadav5/coding-grind/tree/master/0900-reordered-power-of-2) |
 | [0965-unique-email-addresses](https://github.com/avinashyadav5/coding-grind/tree/master/0965-unique-email-addresses) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/avinashyadav5/coding-grind/tree/master/1145-number-of-submatrices-that-sum-to-target) |
